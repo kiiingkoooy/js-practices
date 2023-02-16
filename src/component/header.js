@@ -57,7 +57,7 @@ const Header = () => {
             </svg>
           </div>
         </aside>
-        <main className="w-full bg-blue-50">
+        <main className="w-full bg-blue-50 overflow-y-auto ">
           <App />
         </main>
       </div>
